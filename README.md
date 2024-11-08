@@ -4,7 +4,7 @@
 
 <p align="left">
   📚 I'm currently a Computer Science(Hons) final-year undergraduate at UCSC <br>
-  ✨ Currently among the top 20 performers university batch(GPA => 3.82/4.00)<br>
+  ✨ Currently among the top 20 performers university batch(GPA => 3.83/4.00)<br>
   💼 Full Stack Developer @IntendAble (2024 June - Present) | Researcher @CloudentNet (2024 May - Present)<br>
   🎯 Backend Nerd | Research Enthusiast <br>
   🎲 Volunteer
